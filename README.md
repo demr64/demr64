@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there 🌱
+I'm a Computer Science student and I'm in love with learning, I tackle hard problems (especially theoretical ones) and changing the world. 
+I mainly code in Python and C/C++ but I'm versatile, as I know also some Javascript, PHP, SQL and Minizinc.
+I like understanding Mathematics, ML/DL, Cryptography and Theoretical Computer Science.
+
+## current research interests 🔭
+My current interests lie in the fields of both theoretical and applied Machine Learning and Deep Learning.
 
 <!--
 **DennisAmiranda/DennisAmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
