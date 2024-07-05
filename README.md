@@ -1,5 +1,5 @@
 ## Hello there 🌱
-I'm a Computer Science student and I'm in love with learning, I tackle hard problems (especially theoretical ones) and changing the world. 
+I'm a Computer Science student and I'm in love with learning, I tackle hard problems, especially theoretical and fundamental ones ones. 
 I mainly code in Python and C/C++ but I'm versatile, as I also know some Javascript, PHP, SQL and Minizinc.
 
 ## Current research interests 🔭
