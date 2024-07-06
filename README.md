@@ -3,7 +3,7 @@ I'm a Computer Science student and I'm in love with learning, I tackle hard prob
 I mainly code in Python and C/C++ but I'm versatile, as I also know some Javascript, PHP, SQL and Minizinc.
 
 ## Current research interests 🔭
-My current interests lie in the fields of both theoretical and applied Machine Learning and Deep Learning and Computational Mathematics.
+My current interests lie in the fields of both theoretical and applied Machine Learning, Cybersecurity and Cryptography and Computational Mathematics.
 
 <!--
 **DennisAmiranda/DennisAmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
