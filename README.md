@@ -1,8 +1,8 @@
 ## Hello there 🌱
-I'm a Computer Science student and I'm in love with learning, I tackle hard problems, especially theoretical and fundamental ones ones. 
+I'm a Bachelor's Computer Science student at UNISA (University of Salerno). I'm currently exploring different areas of Computing.
 I mainly code in Python and C/C++ but I'm versatile, as I also know some Javascript, PHP, SQL and Minizinc.
 
-## Current research interests 🔭
+## Current interests 🔭
 My current interests lie in the fields of both theoretical and applied Machine Learning, Cybersecurity and Cryptography and Computational Mathematics.
 
 <!--
