@@ -1,4 +1,4 @@
-## Hello there 🌱
+## Hello there 
 I'm a Bachelor's Computer Science student at UNISA (University of Salerno). I'm currently exploring different areas of Computing.
 I mainly code in Python and C/C++ but I'm versatile, as I also know some Javascript, PHP, SQL and Minizinc.
 
