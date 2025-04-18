@@ -1,10 +1,5 @@
-## Hello there 
-I'm a Bachelor's Computer Science student at UNISA (University of Salerno). I'm currently exploring different areas of Computing.
-I mainly code in Python and C/C++ but I'm versatile, as I also know some Javascript, PHP, SQL and Minizinc.
-
-## Current interests 🔭
-My current interests lie in the fields of both theoretical and applied Machine Learning, Cybersecurity and Cryptography and Computational Mathematics.
-
+I'm a Bachelor's Computer Science student at UNISA (University of Salerno). 
+I like Theoretical Computer Science and Discrete mathematics.
 <!--
 **DennisAmiranda/DennisAmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
