@@ -1,5 +1,9 @@
 I'm a Bachelor's Computer Science student at UNISA (University of Salerno). <br>
 I like Theoretical Computer Science and Discrete mathematics.
+
+In my free time, I enjoy cracking a good a puzzle.
+
+![](https://projecteuler.net/profile/demr.png)
 <!--
 **DennisAmiranda/DennisAmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
