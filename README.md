@@ -1,16 +1,13 @@
-I'm a Bachelor's Computer Science student at UNISA (University of Salerno). <br>
-I have many interests, in my free time, I enjoy cracking a good a puzzle.
-<!--
-**DennisAmiranda/DennisAmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ServerHello 🔐 
+I'm Dennis, a Bachelor student at UNISA (University of Salerno) in Computer Science. <br>
+I'm a CTF player at the <a href="https://bytethecookies.org/">ByteTheCookies</a> team. <br>
+I'm particularly interested in the theoretical side of information and computing. 
+I enjoy things like:
+- Cybersecurity & cryptography
+- Mathematics
+- Reading mostly nonfiction 
+## Tech stack
+[![My Skills](https://skillicons.dev/icons?i=python,c,rust,git,bash,linux&perline=30)](https://skillicons.dev)
+<img src="https://avatars.githubusercontent.com/u/982721?s=160&v=4" style="width:47px" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
