@@ -7,7 +7,7 @@ I enjoy things like:
 - Mathematics
 - Reading mostly nonfiction 
 ## Tech stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,rust,git,bash,linux&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,rust,mysql,git,bash,linux&perline=30)](https://skillicons.dev)
 <img src="https://avatars.githubusercontent.com/u/982721?s=160&v=4" style="width:47px" />
 
 
